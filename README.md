@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ranvneet Singh</h1>
+<h1 align="center">Hi 👋, I'm Ravneet Singh</h1>
 <h3 align="center">A passionate Flutter Developer.</h3>
  
 # 💫 About Me:
